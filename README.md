@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 
+### I'm currently learning java,html,css,javascript and android development.
+### I'm currently working on building front end of websites and some basic android apps.
