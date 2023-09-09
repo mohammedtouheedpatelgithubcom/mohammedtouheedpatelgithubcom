@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm currently learning java,html,css,javascript and android development.
+### I'm currently learning html,css,javascript(web dev) and android development(using java and kotlin).
 ### I'm currently working on building front end of websites and some basic android apps.
 ### I wish to make good and responsive websites .Now currently learning python and Django framework to make up some backend knowledge.Wish to learn ML and Cloud tech more in coming days.
