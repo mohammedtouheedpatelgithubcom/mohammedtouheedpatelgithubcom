@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Touheed .I am a Python Developer.It's amusing for me to code.
+### Hi there 👋  I'm Touheed .I am a Python and Java Developer(sounds uncool😄).It's amusing for me to code.
 
 <!--
 **mohammedtouheedpatelgithubcom/mohammedtouheedpatelgithubcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm currently learning html,css,javascript(web dev) and android development(using java and kotlin).
-### I'm currently working on building front end of websites and some basic android apps.
-### I wish to make good and responsive websites .Now currently learning python and Django framework to make up some backend knowledge.Wish to learn ML and Cloud tech more in coming days.
+### I'm currently learning html,css,javascript(web dev) and android development(using java and kotlin) you can clear see I am in both boats .I'm into ethical hacking. Learning to write scripts and find vulnerabilities.
+### You may find me CTFs and hackathons . Would like to collaborate in making exploits and learning from experience.
+### I have worked on building front end of websites and some basic android apps.
+### I wish to make good and responsive websites .Wish to learn ML and Cloud tech more in coming days.
+### I'm looking for friends who can help me get going into depth of cybersecurity and would like collaborate in research papers.
