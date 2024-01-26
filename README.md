@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm currently learning html,css,javascript(web dev) and android development(using java and kotlin) you can clear see I am in both boats .I'm into ethical hacking. Learning to write scripts and find vulnerabilities.
-### You may find me CTFs and hackathons . Would like to collaborate in making exploits and learning from experience.
+### You may find me at CTFs and hackathons . Would like to collaborate in making exploits and learning from experience.
 ### I have worked on building front end of websites and some basic android apps.
 ### I wish to make good and responsive websites .Wish to learn ML and Cloud tech more in coming days.
 ### I'm looking for friends who can help me get going into depth of cybersecurity and would like collaborate in research papers.
