@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 ### I have worked on building front end of websites and some basic android apps.
 ### I wish to make good and responsive websites .Wish to learn ML and Cloud tech more in coming days.
 ### I'm looking for friends who can help me get going into depth of cybersecurity and would like collaborate in research papers.
+
+I got a free domain for a year so checking it out.
+website :touheed.us
+i don't have a hosting plan , so just redirecting to github page
